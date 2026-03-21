@@ -1,6 +1,6 @@
 <div align="center">
 
-# 🗄️ Database Optimization
+# 🗄️ Database Optimization & Big Data Processing (SQL + Hadoop Concepts)
 A professional SQL project focused on **query optimization** and **database performance improvement**.
 
 [![SQL](https://img.shields.io/badge/SQL-MySQL-blue)](queries.sql)  
