@@ -106,6 +106,7 @@ It focuses on improving query performance, designing efficient data models, and 
 1. Clone the repository:
 ```bash
 git clone https://github.com/AkilSelot/Database-Optimization.git
+
 Run schema.sql to create tables
 Run queries.sql to test queries
 Apply optimizations using optimization.sql
