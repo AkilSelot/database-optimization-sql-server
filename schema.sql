@@ -1,3 +1,4 @@
+-- Customers Table
 CREATE TABLE Customers (
     CustomerID INT PRIMARY KEY,
     Name VARCHAR(100),
@@ -6,6 +7,7 @@ CREATE TABLE Customers (
     SignupDate DATE
 );
 
+-- Products Table
 CREATE TABLE Products (
     ProductID INT PRIMARY KEY,
     ProductName VARCHAR(100),
@@ -13,6 +15,7 @@ CREATE TABLE Products (
     Price DECIMAL(10,2)
 );
 
+-- Orders Table
 CREATE TABLE Orders (
     OrderID INT PRIMARY KEY,
     CustomerID INT,
@@ -21,6 +24,7 @@ CREATE TABLE Orders (
     FOREIGN KEY (CustomerID) REFERENCES Customers(CustomerID)
 );
 
+-- Order_Items Table
 CREATE TABLE Order_Items (
     OrderItemID INT PRIMARY KEY,
     OrderID INT,
