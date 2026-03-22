@@ -5,7 +5,7 @@
 A professional SQL project focused on **query optimization**, **database performance**, and **Big Data concepts (Hadoop & Data Lakes)**.
 
 [![SQL](https://img.shields.io/badge/SQL-MySQL-blue)](queries.sql)  
-[![Big Data](https://img.shields.io/badge/BigData-Hadoop-yellow)]()  
+[![Big Data](https://img.shields.io/badge/BigData-Hadoop-yellow)](hadoop_queries.hql)
 [![GitHub](https://img.shields.io/badge/GitHub-Repo-black?logo=github)](https://github.com/AkilSelot/Database-Optimization)
 
 </div>
