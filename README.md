@@ -5,7 +5,7 @@
 A professional SQL project focused on **query optimization**, **database performance**, and **Big Data concepts (Hadoop & Data Lakes)**.
 
 [![SQL](https://img.shields.io/badge/SQL-MySQL-blue)](queries.sql)  
-[![Big Data](https://img.shields.io/badge/BigData-Hadoop-yellow)](performance_analysis.md)
+[![Big Data](https://img.shields.io/badge/BigData-Hadoop-yellow)](performance_analysis.md)  
 [![GitHub](https://img.shields.io/badge/GitHub-Repo-black?logo=github)](https://github.com/AkilSelot/Database-Optimization)
 
 </div>
@@ -13,6 +13,7 @@ A professional SQL project focused on **query optimization**, **database perform
 ---
 
 ## 🔍 Project Overview
+
 This project demonstrates real-world database optimization techniques combined with **Big Data fundamentals**.  
 
 It focuses on improving query performance, designing efficient data models, and handling large datasets inspired by **Hadoop ecosystem (HDFS, MapReduce)** and **Data Lake architectures**.
@@ -20,6 +21,7 @@ It focuses on improving query performance, designing efficient data models, and 
 ---
 
 ## 📈 Performance Impact
+
 - Reduced query execution time by **40%**  
 - Improved reporting efficiency on large datasets  
 - Applied indexing and query optimization techniques  
@@ -27,6 +29,7 @@ It focuses on improving query performance, designing efficient data models, and 
 ---
 
 ## ✨ Key Features
+
 - Optimized SQL queries for faster execution  
 - Indexing and performance tuning  
 - Relational schema design and normalization  
@@ -38,6 +41,7 @@ It focuses on improving query performance, designing efficient data models, and 
 ---
 
 ## 🛠 Tools & Technologies
+
 - SQL (MySQL / PostgreSQL / MS SQL Server concepts)  
 - Hadoop Concepts (HDFS, MapReduce – academic exposure)  
 - Data Modeling & Normalization  
@@ -47,12 +51,13 @@ It focuses on improving query performance, designing efficient data models, and 
 ---
 
 ## 🧠 Big Data / Simulated Large Dataset
+
 - Simulated large-scale dataset handling:  
   - 1,000 Customers  
   - 5,000 Products  
   - 50,000 Orders  
   - 200,000 Order_Items  
-- Purpose:  
+- **Purpose:**  
   - Apply query optimization  
   - Demonstrate scalable data handling  
   - Align with Big Data concepts (HDFS / MapReduce / Data Lake principles)  
@@ -66,7 +71,7 @@ It focuses on improving query performance, designing efficient data models, and 
 | `schema.sql` | Database tables and structure |
 | `queries.sql` | Optimized queries for testing |
 | `optimization.sql` | Indexing and performance tuning |
-| `performance_analysis.md` | Query performance comparison |
+| `performance_analysis.md` | Query performance comparison & Big Data analysis |
 | `README.md` | Project documentation |
 | `images/schema/` | Database schema screenshots |
 | `images/performance/` | Query performance screenshots |
@@ -107,21 +112,21 @@ It focuses on improving query performance, designing efficient data models, and 
 ---
 
 ## 🚀 Getting Started
-1. Clone the repository:  
-   ```bash
-   git clone https://github.com/AkilSelot/Database-Optimization.git
 
+1. Clone the repository:
+
+```bash
+git clone https://github.com/AkilSelot/Database-Optimization.git
 Run schema.sql to create tables
 Run queries.sql to test queries
 Apply optimizations using optimization.sql
-
-
 📚 Learning Outcomes
 SQL query optimization and performance tuning
 Indexing strategies and execution plan analysis
 Database schema design and normalization
 Handling large datasets efficiently
 Understanding Big Data systems and Data Lakes
+
 👤 Author
 
 Akil Selot
