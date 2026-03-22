@@ -21,7 +21,7 @@ It also demonstrates **Big Data / Hadoop concepts** applied to large datasets.
 
 ## 2. Sample Queries and Execution Time
 
-### Query 1: Total Orders per Customer
+###Query 1: Total Orders per Customer
 
 **Before Optimization**
 
