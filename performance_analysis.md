@@ -23,7 +23,8 @@ It also demonstrates **Big Data / Hadoop concepts** applied to large datasets.
 
 
 ###Query 1: Total Orders per Customer
-**Before Optimization**
+
+Before Optimization
 
 ```sql
     SELECT c.customer_id, COUNT(o.order_id) AS total_orders
