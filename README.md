@@ -120,7 +120,9 @@ git clone https://github.com/AkilSelot/Database-Optimization.git
 Run schema.sql to create tables
 Run queries.sql to test queries
 Apply optimizations using optimization.sql
-📚 Learning Outcomes
+
+
+### 📚 Learning Outcomes
 SQL query optimization and performance tuning
 Indexing strategies and execution plan analysis
 Database schema design and normalization
